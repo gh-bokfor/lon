@@ -1,2 +1,2 @@
-# gh-bokför - Lön
+# gh-bokfor - Lön
 Lön
