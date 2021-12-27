@@ -1,2 +1,2 @@
-# lon
+# gh-bokför - Lön
 Lön
